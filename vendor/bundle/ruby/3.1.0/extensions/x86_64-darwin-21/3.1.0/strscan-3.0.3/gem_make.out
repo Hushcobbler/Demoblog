@@ -1,0 +1,16 @@
+current directory: /Users/emmabassey/demo/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+/Users/emmabassey/.rvm/rubies/ruby-3.1.1/bin/ruby -I /Users/emmabassey/.rvm/rubies/ruby-3.1.1/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/emmabassey/demo/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20220714-18024-vi9ypi sitelibdir\=./.gem.20220714-18024-vi9ypi clean
+
+current directory: /Users/emmabassey/demo/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20220714-18024-vi9ypi sitelibdir\=./.gem.20220714-18024-vi9ypi
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/emmabassey/demo/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20220714-18024-vi9ypi sitelibdir\=./.gem.20220714-18024-vi9ypi install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20220714-18024-vi9ypi
